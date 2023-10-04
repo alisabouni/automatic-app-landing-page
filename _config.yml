@@ -78,7 +78,7 @@ features                                  :
 
   - title                                 : Real-Time Monitoring
     description                           : Stay informed about the value of your investments with real-time monitoring.
-    fontawesome_icon_name                 : fa-solid fa-arrows-rotate
+    fontawesome_icon_name                 : fa-arrows-rotate
 
   - title                                 : Crypto News
     description                           : Stay ahead of the curve with curated crypto news.
