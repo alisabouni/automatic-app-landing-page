@@ -76,7 +76,7 @@ features                                  :
     description                           : Efficient architecture, quick loading and optimal performance even during peak usage.
     fontawesome_icon_name                 : fa-solid fa-rocket
 
-    - title                               : User-Friendly Interface
+  - title                               : User-Friendly Interface
     description                           : Enjoy a sleek and intuitive interface designed specifically for Apple devices.
     fontawesome_icon_name                 : fa-solid fa-user  
 
