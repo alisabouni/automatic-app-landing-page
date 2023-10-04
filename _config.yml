@@ -78,11 +78,11 @@ features                                  :
 
   - title                                 : Real-Time Monitoring
     description                           : Stay informed about the value of your investments with real-time monitoring.
-    fontawesome_icon_name                 : fa-arrows-rotate
+    fontawesome_icon_name                 : fa-solid fa-arrows-rotate
 
   - title                                 : Crypto News
     description                           : Stay ahead of the curve with curated crypto news.
-    fontawesome_icon_name                 : fa-solid fa-newspaper
+    fontawesome_icon_name                 : fa-solid fa-table-cells-large
 
   - title                                 : Accessible Market Data
     description                           : Stay updated on the latest cryptocurrency prices.
