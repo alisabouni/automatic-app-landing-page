@@ -63,6 +63,7 @@ features                                  :
   # - title                                 : Smart App Banner
   #   description                           : Display a smart app banner on iOS devices.
   #   fontawesome_icon_name                 : arrow-alt-circle-down
+
   - title                                 : Fast & Powerful
     description                           : Efficient architecture, quick loading and optimal performance even during peak usage.
     fontawesome_icon_name                 : fa-solid fa-rocket
@@ -85,7 +86,7 @@ features                                  :
 
   - title                                 : Accessible Market Data
     description                           : Stay updated on the latest cryptocurrency prices.
-    fontawesome_icon_name                 : fa-solid fa-chart-simple
+    fontawesome_icon_name                 : fa-solid fa-chart
 
 
 # Theme Settings
